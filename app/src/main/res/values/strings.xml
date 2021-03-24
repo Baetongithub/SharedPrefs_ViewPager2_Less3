@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SharedPrefs_ViewPager2_Less3</string>
+    <string name="add">Add</string>
+    <string name="share_post">Share Post</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="group">Group</string>
+    <string name="user">User</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+    <string name="something_went_wrong">\"Something went wrong \"</string>
+    <string name="post_edited">Post edited</string>
+    <string name="todo">TODO</string>
+    <string name="delete">Delete</string>
+    <string name="remove_this_item">Remove this item?</string>
+    <string name="cancel">NO, CANCEL</string>
+    <string name="yes">YES</string>
+    <string name="deleted">Deleted</string>
+    <string name="not_deleted">Not deleted</string>
+    <string name="post_added">Post added</string>
+    <string name="post_not_added">\"Post not added \"</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SharedPrefs_ViewPager2_Less3"
