@@ -150,7 +150,6 @@ public class MainActivity extends AppCompatActivity {
         dialog.show();
     }
 
-
     private void recyclerOnScrollListener() {
         ui.recyclerViewMain.addOnScrollListener(new RecyclerView.OnScrollListener() {
             @Override
