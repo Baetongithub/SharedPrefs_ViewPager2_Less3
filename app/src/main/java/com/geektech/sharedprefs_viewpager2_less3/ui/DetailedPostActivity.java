@@ -11,7 +11,7 @@ import com.geektech.sharedprefs_viewpager2_less3.R;
 import com.geektech.sharedprefs_viewpager2_less3.databinding.ActivityDetailedPostBinding;
 import com.geektech.sharedprefs_viewpager2_less3.databinding.LayoutBottomSheetEditBinding;
 import com.geektech.sharedprefs_viewpager2_less3.model.Post;
-import com.geektech.sharedprefs_viewpager2_less3.remote.RetrofitBuilder;
+import com.geektech.sharedprefs_viewpager2_less3.network.RetrofitBuilder;
 import com.geektech.sharedprefs_viewpager2_less3.utils.Constants;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
 
